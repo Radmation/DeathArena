@@ -1,0 +1,90 @@
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\bin\Windows\Debug\DeathAreana.exe
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\bin\Windows\Debug\DeathAreana.pdb
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\bin\Windows\Debug\SharpDX.dll
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\bin\Windows\Debug\SharpDX.xml
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\obj\x86\Debug\DeathAreana.csprojResolveAssemblyReference.cache
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\obj\x86\Debug\DeathAreana.exe
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\obj\x86\Debug\DeathAreana.pdb
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\bin\Windows\Debug\Content\player_images\flameman.xnb
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\bin\Windows\Debug\Content\player_images\saske_stance3.xnb
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\bin\Windows\Debug\Content\player_images\saske_run.xnb
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\bin\Windows\Debug\Content\player_images\saske_jump.xnb
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\bin\Windows\Debug\Content\text\SpriteFontVelocity.xnb
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\bin\Windows\Debug\DeathAreana.exe.manifest
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\bin\Windows\Debug\DeathAreana.application
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\obj\x86\Debug\DeathAreana.exe.manifest
+C:\Users\Radmation\AppData\Local\Temporary Projects\DeathAreana\obj\x86\Debug\DeathAreana.application
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\obj\x86\Debug\DeathAreana.exe
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\obj\x86\Debug\DeathAreana.pdb
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\Content\player_images\saske_stance3.xnb
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\Content\player_images\saske_run.xnb
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\Content\player_images\saske_jump.xnb
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\Content\text\SpriteFontVelocity.xnb
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\DeathAreana.exe.manifest
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\DeathAreana.application
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\DeathAreana.exe
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\DeathAreana.pdb
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\SharpDX.dll
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\SharpDX.xml
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\obj\x86\Debug\DeathAreana.csprojResolveAssemblyReference.cache
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\obj\x86\Debug\DeathAreana.exe.manifest
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\obj\x86\Debug\DeathAreana.application
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\Content\map_images\Tile3.xnb
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\Content\map_images\Tile4.xnb
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\Content\sounds\gameMusic.wma
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\Content\sounds\oooSound.wav
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\Content\sounds\explosionSound.xnb
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\Content\sounds\gameMusic.xnb
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\Content\sounds\laserFire.xnb
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\Content\sounds\loop1.xnb
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\Content\sounds\oooSound.xnb
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\Content\sounds\pong.xnb
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\Content\player_images\saskePunch.xnb
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\Content\player_images\paddle.xnb
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\Content\map_images\Tile2.xnb
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\Content\map_images\Tile1.xnb
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\Content\map_images\Tile5.xnb
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\Content\map_images\Tile6.xnb
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\Content\map_images\Tile7.xnb
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\Content\player_images\saskeDash.xnb
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\Content\sounds\wooshSound.xnb
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\Content\weapon_images\swordSwing.xnb
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\Content\map_images\backgroundGame.xnb
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\Content\sounds\jump.xnb
+C:\Users\Radmation\Documents\Visual Studio 2012\Projects\DeathAreana\DeathAreana\bin\Windows\Debug\Content\player_images\wallClingRight.xnb
